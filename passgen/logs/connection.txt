@@ -1,0 +1,1 @@
+[02/11/2022 01:39:32am] - Conectado ao banco de dados
